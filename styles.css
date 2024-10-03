@@ -422,7 +422,9 @@ footer {
     .logo {
         display: none;
     }
-
+     nav li a {
+    font-size: 13px;
+}
     * {
         margin: 0;
         padding: 0;
